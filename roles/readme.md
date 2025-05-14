@@ -1,0 +1,2 @@
+### usages
+`# terraform [apply|destroy]`
