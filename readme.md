@@ -2,3 +2,5 @@
  - keypair
  - vpc
  - security group
+ - ec2
+ - policy
