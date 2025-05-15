@@ -1,7 +1,7 @@
 aws_profile    = "default"
 aws_account_no = "471112672291"
 aws_region     = "ap-southeast-2"
-this_name      = "t-kbeginner"
+#this_name      = "t-kbeginner"
 created_by     = "adevopsbeginner"
 link           = "https://www.youtube.com/@adevopsbeginner"
 

@@ -3,3 +3,4 @@
 *.tfstate.backup
 id_ed25519.pub
 id_ed25519
+terraform.tfstate.d
