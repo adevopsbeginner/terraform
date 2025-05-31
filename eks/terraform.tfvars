@@ -6,7 +6,12 @@ created_by     = "adevopsbeginner"
 link           = "https://www.youtube.com/@adevopsbeginner"
 
 ## instance
-instance_type = "t3a.micro"
+# EC2 Size	Approx Max Pods
+# t3.nano	 4
+# t3.small	11
+# t3.medium	17
+# t3.large	29
+instance_type = "t3a.medium"
 whitelist     = [
     "203.123.0.0/16",      ### home ip
     ]
