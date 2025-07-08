@@ -1,0 +1,10 @@
+gcp_project_id    = "aries-462505"
+gcp_region        = "us-central1"
+vpc_name          = "t_abeginner"
+this_name         = "t_abeginner"
+key_name          = "t_abeginner_ed25519"
+aws_ami_prefix    = "al2023-ami-2023"
+ec2_instance_type = "t2.micro"
+volume_size       = 8
+created_by        = "adevopsbeginner"
+link              = "https://www.youtube.com/@adevopsbeginner"

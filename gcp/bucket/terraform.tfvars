@@ -1,0 +1,5 @@
+gcp_project_id    = "aries-462505"
+gcp_region        = "us-central1"
+this_name         = "tbeginner"
+created_by        = "adevopsbeginner"
+link              = "https_www_adevopsbeginner_site"
